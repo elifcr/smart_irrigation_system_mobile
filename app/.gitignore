@@ -1,0 +1,4 @@
+/build
+app/src/main/java/*
+app/src/main/res/*
+.idea/
