@@ -12,7 +12,7 @@ import androidx.core.view.WindowInsetsCompat
 import com.example.myapplication.R
 import com.example.myapplication.Util.LoginActivity
 import com.example.myapplication.Util.SharedPRef.isFirstTimeLaunch
-import com.example.myapplication.Util.WalkthroughActivity
+import com.example.myapplication.WalkthroughActivity
 
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
