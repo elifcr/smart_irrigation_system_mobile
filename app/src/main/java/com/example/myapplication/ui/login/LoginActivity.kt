@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.myapplication.databinding.ActivityLoginBinding
-import com.example.myapplication.ui.login.HomePageActivity
 import com.example.myapplication.ui.login.RestPasswordActivity
 import com.example.myapplication.ui.login.SignInActivity
 import com.google.firebase.Firebase
