@@ -1,4 +1,4 @@
-package com.example.myapplication.Util
+package com.example.myapplication.ui.login
 
 import android.content.Context
 

@@ -1,4 +1,4 @@
-package com.example.myapplication.Util
+package com.example.myapplication.ui.login
 
 import android.content.Context
 import android.content.Intent
@@ -6,8 +6,6 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.myapplication.databinding.ActivityLoginBinding
-import com.example.myapplication.ui.login.RestPasswordActivity
-import com.example.myapplication.ui.login.SignInActivity
 import com.google.firebase.Firebase
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.auth

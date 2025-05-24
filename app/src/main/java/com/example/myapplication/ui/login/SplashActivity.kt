@@ -1,4 +1,4 @@
-package com.example.myapplication.Util.com.example.myapplication.ui.login
+package com.example.myapplication.ui.login
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -10,9 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.myapplication.R
-import com.example.myapplication.Util.LoginActivity
-import com.example.myapplication.Util.SharedPRef.isFirstTimeLaunch
-import com.example.myapplication.WalkthroughActivity
+import com.example.myapplication.ui.login.SharedPRef.isFirstTimeLaunch
 
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {

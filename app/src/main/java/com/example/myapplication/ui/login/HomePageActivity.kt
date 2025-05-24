@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.ui.login
 
 import android.Manifest
 import android.annotation.SuppressLint
@@ -20,9 +20,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SwitchCompat
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.example.myapplication.ui.login.AddAreaActivity
-import com.example.myapplication.ui.login.AreaActivity
-import com.example.myapplication.ui.login.ProfileActivity
+import com.example.myapplication.R
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
 import com.google.firebase.auth.FirebaseAuth

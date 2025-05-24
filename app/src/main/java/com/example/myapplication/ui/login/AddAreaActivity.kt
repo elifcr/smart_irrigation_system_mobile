@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.ui.login
 
 import android.os.Bundle
 import android.widget.ArrayAdapter
@@ -8,6 +8,7 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
+import com.example.myapplication.R
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 
